@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi there, I'm Evangeline 👋🌟
 
-<!--
-**evangeline-g/evangeline-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+ <img alt="banner" src="https://i.pinimg.com/1200x/95/9b/ab/959bab698b84ff052bd49a6f554e95cd.jpg" width=100%>
+</picture>
 
-Here are some ideas to get you started:
+I'm Evangeline Gong, an aspiring sofware engineer who is passionate about building applications that will make an impact on users. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas that I'm interested in:
+
+<ul>
+  <li>Data Science</li>
+  <li>Machine Learning</li>
+  <li>Web Development</li>
+  <li>Game Development</li>
+</ul>
+
+### Current Status
+
+<details>
+
+  <summary>Languages and Tools</summary>
+
+  <ul>
+    <li>Python</li>
+    <li>Java</li>
+    <li>C#</li>
+    <li>ReactJS</li>
+    <li>pandas</li>
+  </ul>
+
+</details>
+
+<details>
+
+  <summary>What I'm Learning</summary>
+
+  <ul>
+    <li>ReactJS and front end web development</li>
+    <li>Working with data frames in pandas</li>
+  </ul>
+  
+</details>
